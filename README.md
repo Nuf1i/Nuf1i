@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍 I'm based in KSA, Jeddah<br>🔭 I’m Full-stack web developer<br>🌱 I’m currently learning React-Native<br>🤝 I'm willing to work together with a creative team to expand my skill set.<br>👨‍💻 I have hands-on experience with React.js, Next.js, Tailwind CSS, Prisma.✉️ You can contact me at nawaf.m.alsaedi@gmail.com
+🌍 I'm based in KSA, Jeddah<br>🔭 I’m Full-stack web developer<br>🌱 I’m currently learning React-Native<br>🤝 I'm willing to work together with a creative team to expand my skill set.<br>👨‍💻 I have hands-on experience with React.js, Next.js, Tailwind CSS, Prisma.<br>✉️ You can contact me at nawaf.m.alsaedi@gmail.com
 
 
 ## 🌐 Socials:
